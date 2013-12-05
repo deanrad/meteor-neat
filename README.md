@@ -1,4 +1,4 @@
-##Bourbon - Meteor Smart Package
+##Neat - Meteor Smart Package
 
 This is a simple port of [Neat](https://github.com/thoughtbot/neat) to meteor.
 
@@ -11,5 +11,5 @@ This is a simple port of [Neat](https://github.com/thoughtbot/neat) to meteor.
 
 	@import "packages/bourbon/bourbon";
 	@import "packages/neat/neat";
-
-
+	
+5. `@include` neat's classes as you see fit !

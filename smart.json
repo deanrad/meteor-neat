@@ -3,6 +3,6 @@
     "description": "Neat - A semantic, fluid grid framework on top of Sass and Bourbon",
     "homepage": "https://github.com/chicagogrooves/meteor-neat",
     "author": "Dean Radcliffe (http://www.deanius.com)",
-    "version": "1.5.0",
+    "version": "1.4.0",
     "git": "https://github.com/chicagogrooves/meteor-neat.git"
 }
